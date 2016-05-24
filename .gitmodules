@@ -1,0 +1,3 @@
+[submodule "server/ghost/content/themes/ghost-material"]
+	path = server/ghost/content/themes/ghost-material
+	url = https://github.com/nauzethc/ghost-material.git
