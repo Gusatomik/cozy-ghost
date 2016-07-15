@@ -1,5 +1,5 @@
 {
-  "name": "cozy-blog-jeko",
+  "name": "cozy-blog",
   "version": "1.0.0",
   "engines": [
     "node >= 0.10.0"
@@ -74,5 +74,5 @@
       "description": "Read the cozy url"
     }
   },
-  "cozy-displayName": "Blog M.D."
+  "cozy-displayName": "Blog"
 }
